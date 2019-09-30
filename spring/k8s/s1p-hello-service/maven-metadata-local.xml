@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>spring.k8s</groupId>
+  <artifactId>s1p-hello-service</artifactId>
+  <versioning>
+    <release>0.0.1-SNAPSHOT-20190930.123014Z.09694ae</release>
+    <versions>
+      <version>0.0.1-SNAPSHOT-20190930.123014Z.09694ae</version>
+    </versions>
+    <lastUpdated>20190930123318</lastUpdated>
+  </versioning>
+</metadata>
