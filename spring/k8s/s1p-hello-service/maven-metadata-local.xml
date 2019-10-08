@@ -3,7 +3,7 @@
   <groupId>spring.k8s</groupId>
   <artifactId>s1p-hello-service</artifactId>
   <versioning>
-    <release>0.0.1-SNAPSHOT-20191008.164032Z.86efde3</release>
+    <release>0.0.1-SNAPSHOT-20191008.174345Z.198390b</release>
     <versions>
       <version>0.0.1-SNAPSHOT-20190930.123014Z.09694ae</version>
       <version>0.0.1-SNAPSHOT-20190930.161003Z.19ba3dc</version>
@@ -19,7 +19,8 @@
       <version>0.0.1-SNAPSHOT-20191008.000419Z.efee6bf</version>
       <version>0.0.1-SNAPSHOT-20191008.155710Z.e05acd8</version>
       <version>0.0.1-SNAPSHOT-20191008.164032Z.86efde3</version>
+      <version>0.0.1-SNAPSHOT-20191008.174345Z.198390b</version>
     </versions>
-    <lastUpdated>20191008164338</lastUpdated>
+    <lastUpdated>20191008174954</lastUpdated>
   </versioning>
 </metadata>
